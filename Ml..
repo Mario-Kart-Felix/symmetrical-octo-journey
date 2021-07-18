@@ -2,11 +2,11 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "first.pdf"
+      "filename" : "first.blank"
     }
   ],
   "info" : {
-    "version" : 1,
+    "version" : 3,
     "author" : "xcode"
   }
 }
